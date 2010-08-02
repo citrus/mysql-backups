@@ -3,5 +3,5 @@ MySQL Backups
 
 A simple shell script designed to generate mysqldump files on a cron schedule.
 
-Yep, thats it.
+Yep, that's it.
 
